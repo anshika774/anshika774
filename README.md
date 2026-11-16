@@ -7,4 +7,4 @@ Aspiring SOC Analyst | TryHackMe - Linux Fundamentals Certified
 - ⚡ Fun fact: I love finding attackers in logs!
 
 ### 🛡️ My Projects
-- SOC Log Analyzer - Coming Soon
+- SOC Log Analyzer - Live : github.com/anshika774/soc-log-analyzer
